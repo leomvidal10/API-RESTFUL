@@ -1,8 +1,11 @@
 {
   "name": "trabalhopi",
   "version": "1.0.0",
-  "description": "",
+  "description": "api",
   "main": "index.js",
+  "engines": {
+    "node": "15.x"
+  },
   "scripts": {
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
